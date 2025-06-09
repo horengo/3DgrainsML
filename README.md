@@ -2,4 +2,10 @@ Jupyter notebook with the code executing the algorithm for the extraction of tra
 Orengo, H.A.; Esmoris, J.; Berganzo-Besga, I.; Lumbreras, F.; Aliende, P.; Wallace, M.; Livarda, A. <br> New computational approaches to morphometrics: combining 3D complex shape representation and machine learning for shape analysis. <br>
 Submitted to the Journal of Archaeological Science
 
-Please, use the second version of the code "3DgrainsMLv2_public" (the first version was the submitted initially). It can be run locally or directly from Google Colab and other environments. See the commit file for info on improvements with respect to the Original version.
+Please, use the second version of the code "3DgrainsMLv2_public" (the first version was the submitted initially). It can be run locally or directly from Google Colab and other environments.
+
+Improvements with respect to the orinigal version include:
+- Compatibility with Colab and GDrive and other improvements to increase reproductibility
+- Higher and more secure parallelisation
+- Improvements in the extraction of measures from 3D models
+- Improvements in the validation of the models
