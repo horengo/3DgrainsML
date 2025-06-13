@@ -5,7 +5,7 @@ Submitted to the Journal of Archaeological Science
 Please, use the second version of the code "3DgrainsMLv2_public" (the first version was the submitted initially). It can be run locally or directly from Google Colab and other environments.
 
 Improvements with respect to the orinigal version include:
-- Compatibility with Colab and GDrive and other improvements to increase reproductibility
+- Compatibility with Colab and GDrive and other improvements to increase reproducibility
 - Higher and more secure parallelisation
 - Improvements in the extraction of measures from 3D models
-- Improvements in the validation of the models
+- Improvements in the evaluation and validation of the models
