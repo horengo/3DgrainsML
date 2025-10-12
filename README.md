@@ -11,8 +11,8 @@ Improvements of the second verision with respect to the orinigal version include
 - Improvements in the evaluation and validation of the models
 
 Changes in the third version with respect to the second:
-- Incorporates Tabular Foundation Models
-- Still in development
-- Not optimised for GPU use at the moment.
-- Parallelisation not working properly
+- Incorporates Tabular Foundation Models (TabPFN v2)
+- Optimised for GPU use with TabPFN v2
+- Improved reproductibility
+- More developed documentation
 
